@@ -1,4 +1,7 @@
 django
+django-environ
+django-filter
 djangorestframework
 djangorestframework-jsonapi
+mysqlclient
 sqlalchemy
