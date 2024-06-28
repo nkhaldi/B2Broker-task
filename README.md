@@ -18,13 +18,13 @@ API specification – JSON:API — A specification for building APIs in JSON
 
 ### Will be your advantage:
 
-Test coverage
-SQLAlchemy migrations is an option
-Any linter usage
-Quick start app guide if you create your own docker-compose or Dockerfiles
-Comments in non-standart places in code
-Use database indexes if you think it's advisable
-Leave github link to repo. Please delete the repo after HR feedback
+- Test coverage
+- SQLAlchemy migrations is an option
+- Any linter usage
+- Quick start app guide if you create your own docker-compose or - Dockerfiles
+- Comments in non-standart places in code
+- Use database indexes if you think it's advisable
+- Leave github link to repo. Please delete the repo after HR feedback
 
 ### Requirements
 - [execution time limit] 4 seconds (sh)
